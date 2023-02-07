@@ -1,0 +1,124 @@
+
+  body {
+    justify-content: center;
+    padding: 300px;
+    width: auto;
+   
+  }
+  .container {
+
+    width: 1400px;
+    height: 300px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+
+  }
+  .card1{
+    background-color: darkorange;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    justify-content: center;
+    padding: 10px;
+    width: auto;
+    
+  }
+  .card2{
+    background-color: cadetblue;
+    justify-content: center;
+    padding: 10px;
+    width: auto;
+  }
+  .card3{
+    background-color: darkslategray;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    justify-content: center;
+    padding: 10px;
+    width: auto;
+  }
+ .btn1{
+  padding: 10px;
+  border-radius: 30px;
+  margin: 80px; 
+  justify-content: center;
+    width: 200px;
+    background-color: aliceblue ;
+    color: darkorange;
+ }
+ .btn2{
+  padding: 10px;
+  border-radius: 30px;
+  margin: 80px; 
+  justify-content: center;
+    width: 200px;
+    background-color: aliceblue ;
+    color: aqua;
+ }
+ .btn3{
+  padding: 10px;
+  border-radius: 30px;
+  margin: 80px; 
+  justify-content: center;
+    width: 200px;
+    background-color: aliceblue ;
+    color: darkslategray;
+ }
+ .card1 h1{
+  font-family: 'Lexend Deca', sans-serif;
+  color: aliceblue;
+  margin: 30px;
+  padding: 10px;
+  
+  
+ }
+ .card2 h1{
+  font-family:'Lexend Deca', sans-serif;
+  color: aliceblue;
+  margin: 30px;
+  padding: 10px;
+  
+  
+ }
+ .card3 h1{
+  font-family: 'Lexend Deca', sans-serif;
+  color: aliceblue;
+  margin: 30px;
+  padding: 10px;
+  
+  
+ }
+ .card1 p{
+  font-family: 'Lexend Deca', sans-serif;
+  color: aliceblue;
+  margin: 30px;
+  padding: 10px;
+  
+ }
+ .card2 p{
+  font-family: 'Lexend Deca', sans-serif;
+  color: aliceblue;
+  margin: 30px;
+  padding: 10px;
+  
+ }
+ .card3 p{
+  font-family: 'Lexend Deca', sans-serif;
+  color: aliceblue;
+  margin: 30px;
+  padding: 10px;
+  
+ }
+ .card1 img{
+  margin: 30px;
+  padding: 10px;
+ }
+ .card2 img{
+  margin: 30px;
+  padding: 10px;
+ }
+ .card3 img{
+  margin: 30px;
+  padding: 10px;
+ }
+ 
