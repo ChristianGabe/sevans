@@ -1,0 +1,108 @@
+  @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+
+  body {
+
+    padding: 300px;
+
+  }
+
+  .container {
+
+    width: 50px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    font-family: 'Lexend Deca', cursive;
+
+
+  }
+
+  .card {
+
+    padding: 10px;
+    color: aliceblue;
+    font-family: 'Big Shoulders Display', cursive;
+
+
+
+  }
+
+  .sevanscolor {
+    background-color: hsl(31, 77%, 52%);
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+  }
+
+  .suvscolor {
+    background-color: hsl(184, 100%, 22%);
+  }
+
+  .luxurycolors {
+    background-color: hsl(179, 100%, 13%);
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+
+  .btn1 {
+    padding: 10px;
+    border-radius: 30px;
+    margin: 80px;
+    width: 200px;
+    background-color: aliceblue;
+    color: hsl(31, 77%, 52%);
+    cursor: pointer;
+    border-color: hsl(31, 77%, 52%);
+    font-family: 'Big Shoulders Display', sans-serif;
+  }
+
+  .btn2 {
+    padding: 10px;
+    border-radius: 30px;
+    margin: 80px;
+    justify-content: center;
+    width: 200px;
+    background-color: aliceblue;
+    color: hsl(184, 100%, 22%);
+    cursor: pointer;
+    border-color: hsl(184, 100%, 22%);
+    font-family: 'Big Shoulders Display', sans-serif;
+  }
+
+  .btn3 {
+    padding: 10px;
+    border-radius: 30px;
+    margin: 80px;
+    justify-content: center;
+    width: 200px;
+    background-color: aliceblue;
+    color: hsl(179, 100%, 13%);
+    cursor: pointer;
+    border-color: hsl(179, 100%, 13%);
+    font-family: 'Big Shoulders Display', sans-serif;
+  }
+
+  .card h1 {
+    font-family: 'Big Shoulders Display', sans-serif;
+    color: aliceblue;
+    margin-top: 40px;
+    padding-left: 80px;
+    font-size: 40px;
+
+
+  }
+
+  .card p {
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    margin-top: 40px;
+    padding-left: 80px;
+    margin-right: 80px;
+
+  }
+
+  .card img {
+    margin-top: 10px;
+    padding-left: 30px;
+
+  }
